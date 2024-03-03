@@ -1,0 +1,1 @@
+This is an online music education platform, providing music theory, performance skills, and historical knowledge.
